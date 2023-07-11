@@ -9,15 +9,12 @@ https://github.com/maeahmad/Social-Network-API
 
 
 # About
-- The webpage highlights some example of pervious work I have done. 
-- It gives information about education background.
-- It allow employers to find my resume. 
-- It allow employers to contact me. 
-- It is presented with a responsive layout that adapts to the viewport. 
+- As I invoke the application, Mangoose models are synced to Mango Database. 
+- When I open API GET routes in Insomnia for users and thoughts, then the data for each of these routes is displayed. 
+- When I test API POST, PUT, and DELETE routes in Insomnia for user and thoughts, then information can be created, updated, and deleted from the database.  
+- Additionally API POST and DELETE routes in Insomnia can create and delete reactions to thoughts and controle friends. 
 
 # Contributors
 - Mae Ahmad
 - google.com
-
-
-## 
+- Youtube.com
