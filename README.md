@@ -1,5 +1,5 @@
 # Social Network API 💬
-As a Fullstack Web Developer, I developed a social network that uses API that uses NoSQL database to handle large amounts of unstructured data. 
+As a Fullstack Web Developer, I developed an API for a social network that uses NoSQL database to handle large amounts of unstructured data. 
 
 # URL link
 https://github.com/maeahmad/Social-Network-API
