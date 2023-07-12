@@ -6,7 +6,7 @@ https://github.com/maeahmad/Social-Network-API
 
 ![screencapture-courses-bootcampspot-courses-3173-assignments-50838-2023-07-11-18_45_52](https://github.com/maeahmad/Social-Network-API/assets/122010497/c7943a36-df09-4c0b-8f1d-b73b47d9b1df)
 
-
+https://watch.screencastify.com/v/z2CN5aAGYcMyDI7KWKPp
 
 # About
 - As I invoke the application, Mangoose models are synced to Mango Database. 
